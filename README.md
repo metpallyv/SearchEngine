@@ -38,4 +38,13 @@ Goal of this project is to build a simple Search Engine in python for TREC docum
 5. Output the top 100 document IDs and their BM25 scores for each test query 
                 according to the following format: query_id Q0 doc_id rank BM25_score system_name
 
+6. Use the following Test Queries:
 
+        Query ID	Query Text
+        1	        portabl oper system
+        2	        code optim for space effici
+        3	        parallel algorithm
+        4	        distribut comput structur and algorithm
+        5	        appli stochast process
+        6	        perform evalu and model of comput system
+        7	        parallel processor in inform retriev
